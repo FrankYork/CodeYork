@@ -1,0 +1,14 @@
+{
+  "name": "CodeYork",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
